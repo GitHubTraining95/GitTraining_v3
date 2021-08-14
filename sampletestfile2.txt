@@ -1,1 +1,3 @@
 this is the sample file 2
+this is for comparsion lecture,change file 2
+this is for comparsion again lecture,change file 2
