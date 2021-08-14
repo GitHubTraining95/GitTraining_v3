@@ -7,3 +7,4 @@ this is for comparsion lecture
 this is for again comparsion lecture
 
 this is stashing lecture, for file 1
+This is for stashing lecture, for untracked file for file 1
