@@ -6,3 +6,4 @@ This position is going to be with CTS .We have Shared your profile with one of t
 this is for comparsion lecture
 this is for again comparsion lecture
 
+this is stashing lecture, for file 1
